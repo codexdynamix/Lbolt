@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Codex Dynamics",
+      "hasCanvas": false,
+      "bodyTextLen": 8169,
+      "bodyTextHash": "05f5b079cbcde2e3ff4d6f662730cd1e85fba3ffee4523f1f2e8ee8a61ba5acd",
+      "bodyTextPrefix": "C Codex Dynamics Work Process Services Insights Contact Toggle t",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Codex Dynamics",
+      "hasCanvas": false,
+      "bodyTextLen": 8108,
+      "bodyTextHash": "e172caa0d6cc67d4cefc47ac31f026e48e0a0bec15c85e6082f96fac127f3a1b",
+      "bodyTextPrefix": "C Codex Dynamics Toggle theme CODEX DYNAMICS Precision on every ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
